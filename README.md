@@ -28,3 +28,4 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
  -**Sales Trends**
 
  These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+ Built following the Data With Baraa SQL Data Warehouse course
